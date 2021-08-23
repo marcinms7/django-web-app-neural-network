@@ -25,3 +25,14 @@ python3 manage.py runserver
 Copy server's local address to your browser and run. 
 Enjoy!
 
+Technologies used:
+HTML
+CSS
+Bootstrap
+Python3
+Numpy
+Django Framework
+Javascript
+Jquery
+
+
